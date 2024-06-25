@@ -8,8 +8,8 @@ This repository contains MATLAB and Simulink files for the project "Human Voice 
 
 ## Contents:
 <ul>
-  <li>Simulink models for system implementation</li>
-  <li>Documentation</li>
+  <li>******</li>
+  <li>******</li>
 </ul>
 
 ## Contributors
