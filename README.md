@@ -5,3 +5,7 @@ This repository contains MATLAB and Simulink files for the project "Human Voice 
 <div align="center">
   <img src="Hearing%20Aid.jpg" alt="Hearing Aid" width="250"/>
 </div>
+
+## Contents:
+
+## Contributors
