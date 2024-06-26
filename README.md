@@ -13,3 +13,7 @@ This repository contains MATLAB and Simulink files for the project "Human Voice 
 </ul>
 
 ## Contributors
+
+## About
+
+This is a group project done under EE3204 - Engineering Systems Design, Semester 3, Department of Electrical Engineering, University of Moratuwa, Sri Lanka.
