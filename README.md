@@ -9,15 +9,17 @@ This repository contains MATLAB and Simulink files for the project "Human Voice 
 ## Contents:
 <ul>
   <li>Simulink File - To process the signal (cancel the noise and amplify the signal)</li>
-  <li><div align="center">
-  <img src="Hearing%20Aid.jpg" alt="Hearing Aid" width="350"/>
+</ul></br>
+  <div align="center">
+  <img src="Matlab%20file%20photo.png" alt="MatLab file for Hearing Aid" width="900"/>
 </div>
-</li>
+
   <li>Soildwork File - The Hearing aid sketch </li>
-  <li><div align="center">
-  <img src="Hearing%20Aid.jpg" alt="Hearing Aid" width="350"/>
+  </br>
+<div align="center">
+  <img src="2.png" alt="Solidwork for Hearing Aid" width="350"/>
 </div>
-</li>
+
 </ul>
 
 ## Tools Used
